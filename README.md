@@ -12,12 +12,14 @@ Computadoras
  - - monitores
  - - teclados
  - - mouse
+ 
  Celulares
  auriculares
  impresoras
  televisiones
  ventiladores
  aires acondicionados
+ 
  objetos de cocina
  - - microondas
  - - heladeras
@@ -27,4 +29,3 @@ Computadoras
  - - pavas electricas
  Estufas Electricas
  caloventores
- 
