@@ -2,7 +2,7 @@
 Futuro comercio de electrodomesticos
 
 categorias:
-Computadoras
+-Computadoras
  - - Armadas
  - - Tarjetas de video
  - - Procesadores
@@ -13,12 +13,14 @@ Computadoras
  - - teclados
  - - mouse
  
- Celulares
- auriculares
- impresoras
- televisiones
- ventiladores
- aires acondicionados
+ -Celulares
+ -auriculares
+ -impresoras
+ -televisiones
+ -ventiladores
+ -aires acondicionados
+ -Estufas Electricas
+ -caloventores
  
  objetos de cocina
  - - microondas
@@ -27,5 +29,3 @@ Computadoras
  - - hornos electricos
  - - cafeteras
  - - pavas electricas
- Estufas Electricas
- caloventores
